@@ -26,6 +26,7 @@ def main ():
 """
 
     print(ascii_art)
+    print("----------------------------------------")
 
 if __name__ == "__main__":  #indica que si el nombre es main se debe ejecutar
     main()
