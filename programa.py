@@ -21,12 +21,12 @@ def main ():
       /`/\___/\`\
      /\/o     o\/\
     (_|         |_)
- jgs  |____,____|
+      |____,____|
       (____|____)
 """
 
     print(ascii_art)
-    print("----------------------------------------")
+    print("-------------DIVIERTETE-------------")
 
 if __name__ == "__main__":  #indica que si el nombre es main se debe ejecutar
     main()
